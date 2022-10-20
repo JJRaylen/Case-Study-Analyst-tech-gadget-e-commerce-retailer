@@ -1,4 +1,4 @@
-# Case-Study-Weave
+# Demand Forecasting
 ## Overview
 
 The data we use to guide our demand prediction process was originally provided by an online
